@@ -74,7 +74,7 @@ p {
     margin-top: 4%;
 }
 
-.active {
+.btn:hover {
     width: 100%;
     color: white;
     background-color: hsl(245, 75%, 52%);
