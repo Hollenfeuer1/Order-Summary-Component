@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Order Summary Screenshot](https://github.com/Hollenfeuer1/Order-Summary-Component/blob/fcfe3bbf46ff166bc579bb8fc98f3ab109b4694e/images/Order_Summary_ScreenShot.jpg?raw=true)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://hollenfeuer1.github.io/Order-Summary-Component/
+- Live Site URL: [Github Pages: Order Summary Component](https://hollenfeuer1.github.io/Order-Summary-Component/)
 
 ### Built with
 
@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - @Hollenfeuer1 (https://www.frontendmentor.io/profile/Hollenfeuer1/)
-- Instagram - @alyssacodes (https://www.instagram.com/alyssacodes/)
+- Frontend Mentor - [@Hollenfeuer1](https://www.frontendmentor.io/profile/Hollenfeuer1/)
+- Instagram - [@alyssacodes](https://www.instagram.com/alyssacodes/)
