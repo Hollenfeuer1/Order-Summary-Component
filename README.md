@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor: Order Summary Component](https://www.frontendmentor.io/solutions/order-summary-component-XB4FBvrxP)
 - Live Site URL: [Github Pages: Order Summary Component](https://hollenfeuer1.github.io/Order-Summary-Component/)
 
 ### Built with
